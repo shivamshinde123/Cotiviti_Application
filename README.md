@@ -88,7 +88,7 @@ BEDROCK_GUARDRAIL_VERSION → 1  (or DRAFT)
 ```bash
 uv venv
 uv pip install -r requirements.txt
-uv run streamlit run app.py
+uv run streamlit run src/app.py
 ```
 
 ---
@@ -106,14 +106,17 @@ uv run streamlit run app.py
 
 ```
 policy-insight/
-├── app.py            # Streamlit UI (sidebar navigation, session state)
-├── aws_clients.py    # boto3 client factories
-├── extractor.py      # PDF / TXT text extraction
-├── guardrail.py      # Bedrock Guardrail masking
-├── rag.py            # Chunking, Titan embeddings, FAISS
-├── llm.py            # Amazon Nova Pro invocation, Q&A, comparison
-├── .env              # Your credentials (do not commit)
-├── .env.example      # Safe placeholder to commit
+├── src/
+│   ├── app.py            # Streamlit UI (sidebar navigation, session state)
+│   ├── aws_clients.py    # boto3 client factories
+│   ├── extractor.py      # PDF / TXT text extraction
+│   ├── guardrail.py      # Bedrock Guardrail masking
+│   ├── rag.py            # Chunking, Titan embeddings, FAISS
+│   └── llm.py            # Amazon Nova Pro invocation, Q&A, comparison
+├── docs/
+│   └── POC_Report.docx   # Assessment report
+├── .env                  # Your credentials (do not commit)
+├── .env.example          # Safe placeholder to commit
 ├── requirements.txt
 └── README.md
 ```

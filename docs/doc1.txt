@@ -1,0 +1,64 @@
+RIVERWOOD HEALTHCARE CENTER — MEDICAL STAFF POLICIES
+MSP-1. ADMISSION OF PATIENTS
+The following information must be provided to the admissions office for every patient admission: patient's name, address, and home telephone number; name of the admitting Medical Staff member; admission date; provisional diagnosis; proper service or section; admission priority; gender and age; and means of arrival. In emergency cases, a provisional diagnosis must be stated no longer than 24 hours after admission. All patients admitted to a critical care unit must be examined by the admitting practitioner within 4 hours of admission.
+Sample Admission Record:
+
+Patient Name: John M. Hartford
+DOB: 03/14/1958
+MRN: RWH-2024-00421
+Address: 142 Pinewood Drive, Aitkin, MN 56431
+Phone: (218) 555-0183
+Admitting Physician: Dr. Sandra Kowalski
+Provisional Diagnosis: Acute Myocardial Infarction
+Admission Date: January 12, 2024
+Admission Priority: Emergency
+Means of Arrival: Ambulance
+
+MSP-4. MEDICAL RECORDS
+A Medical Staff member is delinquent if medical records are not completed 30 days after a patient's discharge. On day 30, the member automatically loses admitting, surgical, and outpatient privileges. On day 35, a notice of impending suspension is sent by certified mail. Full suspension occurs on day 40. Medical records must be retained for a minimum of 6 years.
+Sample Delinquency Case:
+
+Patient Name: Mary Ellen Tran
+DOB: 07/22/1971
+MRN: RWH-2024-00389
+Address: 87 Lakeview Road, Aitkin, MN 56431
+Phone: (218) 555-0247
+Attending Physician: Dr. Raymond Osei
+Discharge Date: January 8, 2024
+Record Completion Deadline: February 7, 2024
+Status: Delinquent as of February 8, 2024
+
+MSP-5. INFORMED CONSENT
+Informed consent, as evidenced by a signed form, is valid for 90 days from its date. The consent form must describe the nature, purpose, alternatives, benefits, and known risks of the procedure including anesthesia. It must be signed by both the patient (or their legal representative) and the practitioner performing the procedure.
+Sample Consent Record:
+
+Patient Name: John M. Hartford
+DOB: 03/14/1958
+MRN: RWH-2024-00421
+Procedure: Cardiac Catheterization
+Consent Signed: January 12, 2024
+Consent Expiry: April 11, 2024
+Attending Physician Signature: Dr. Sandra Kowalski
+
+MSP-11. RESUSCITATIVE GUIDELINES
+Only three levels of resuscitation orders may be written: (1) Full Code — maximum resuscitation effort without reservation; (2) Code With Specification — only selected, clearly defined measures based on patient or surrogate wishes; (3) No Code (DNR/DNI) — no resuscitation in the event of cardiopulmonary arrest, though the patient receives the same level of care in all other respects. Resuscitation orders are not cancelled by patient transfers or surgical procedures.
+Sample Code Status Record:
+
+Patient Name: Mary Ellen Tran
+DOB: 07/22/1971
+MRN: RWH-2024-00389
+Code Status: Full Code
+Ordered By: Dr. Raymond Osei
+Date of Order: January 5, 2024
+
+MSP-14. EMERGENCY ROOM COVERAGE
+The emergency room must maintain the following minimum staffing at all times: a current on-call practitioner roster; a registered nurse immediately available within the hospital; a laboratory technician on call; a radiological technician on call; and a respiratory therapist on call. The on-call practitioner must respond to ER call within 30 minutes.
+ER Attendance Record:
+
+Patient Name: John M. Hartford
+DOB: 03/14/1958
+MRN: RWH-2024-00421
+ER Arrival: January 12, 2024 at 2:14 AM
+On-Call Practitioner: Dr. Sandra Kowalski
+Practitioner Response Time: 18 minutes
+RN on Duty: Nurse Patricia Odom
