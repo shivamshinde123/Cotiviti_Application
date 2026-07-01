@@ -6,6 +6,8 @@ Cotiviti works at the intersection of healthcare data and analytics, helping pay
 
 **Policy Insight** is a document intelligence tool designed around Cotiviti's core use cases: processing medical policies, coding guidelines, and payer contracts while keeping member data private. It demonstrates a privacy-first RAG pipeline built entirely on AWS Bedrock, with no third-party model APIs and no data leaving the AWS environment.
 
+> **Deliverables:** A video walkthrough of the application is in the [`Video Presentation/`](Video%20Presentation/) folder. The POC report and slide presentation are in the [`docs/`](docs/) folder (`POC_Report.pdf` and `Cotiviti_Presentation.pdf`).
+
 **Key capabilities:**
 - **PHI / PII Masking:** documents are automatically de-identified using Amazon Bedrock Guardrails before any AI model sees the content, reflecting HIPAA-conscious design
 - **Intelligent Q&A:** ask plain-English questions against uploaded documents using a RAG pipeline built on Amazon Titan Embeddings, FAISS, and Amazon Nova Pro
@@ -114,7 +116,10 @@ policy-insight/
 │   ├── rag.py            # Chunking, Titan embeddings, FAISS
 │   └── llm.py            # Amazon Nova Pro invocation, Q&A, comparison
 ├── docs/
-│   └── POC_Report.docx   # Assessment report
+│   ├── POC_Report.pdf            # Assessment report
+│   └── Cotiviti_Presentation.pdf # Slide presentation
+├── Video Presentation/
+│   └── Cotiviti_Application_Video.mp4  # Application walkthrough
 ├── .env                  # Your credentials (do not commit)
 ├── .env.example          # Safe placeholder to commit
 ├── requirements.txt
